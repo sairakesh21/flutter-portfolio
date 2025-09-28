@@ -391,7 +391,7 @@ class SkillsScreen extends StatelessWidget {
                     
                     SkillCategory(
                       title: 'Programming Languages',
-                      skills: const <String>['Dart', 'Java', 'Python', 'JavaScript', 'C++', 'Swift'],
+                      skills: const <String>['Dart', 'Java', 'Python', 'JavaScript', 'C', 'R Programming'],
                     ),
                     const SizedBox(height: 15),
                     
