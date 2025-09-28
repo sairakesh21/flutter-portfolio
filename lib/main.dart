@@ -255,7 +255,7 @@ class AboutScreen extends StatelessWidget {
                     
                     EducationItem(
                       degree: 'Higher Secondary Education',
-                      institution: 'Kothar School',
+                      institution: 'Kothari International School',
                       duration: '2022 - 2023',
                       description: 'Mathematics, Physics, Chemistry with 89% aggregate.',
                     ),
